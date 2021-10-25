@@ -1,6 +1,6 @@
 ### Hi there, my name is Nina welcome to my GitHub! 🙋🏻‍♀️
 
-🔭 I’m currently working on [DnD Masters](https://github.com/ninabarbakadze/DnD-Masters) and [Tipster](https://github.com/ninabarbakadze/Tipster)<brbr>
+🔭 I’m currently working on [DnD Masters](https://github.com/ninabarbakadze/DnD-Masters) and [Tipster](https://github.com/ninabarbakadze/Tipster)<br>
 🧠 Learning about Web3<br>
 👩🏻‍💻 I'm Currently smilled in modern JS technologies<br> 
 👀 Looking to collaborate on anything fun!<br> 
