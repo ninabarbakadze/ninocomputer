@@ -3,11 +3,11 @@
 Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializing in modern JavaScript technologies. Keep reading to learn more about me and my work ⬇
 
 
-🔭 I’m currently working on [DnD Masters](https://github.com/ninabarbakadze/DnD-Masters) and [Tipster](https://github.com/ninabarbakadze/Tipster)<br>
+🔭 Currently working on [DnD Masters](https://github.com/ninabarbakadze/DnD-Masters) and [Tipster](https://github.com/ninabarbakadze/Tipster)<br>
 🧠 Learning about Web3<br>
 👀 Looking to collaborate on anything fun!<br> 
 🇩🇪 Berlin based, from Tbilisi, Georgia 🇬🇪 <br>
-🗣 skilled in 4 spoken languages 🇬🇧 🇩🇪 🇬🇪 🇷🇺<br>
+🗣 Skilled in 4 spoken languages 🇬🇧 🇩🇪 🇬🇪 🇷🇺<br>
 🎹 Played piano for 7 years, now I'm playing electronic music as a hobby<br>
 😄 Pronouns: she/her<br>
 
