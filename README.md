@@ -1,4 +1,4 @@
-### console.log(nina🤠);
+### 🤠 console.log(nina);
 
 Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializing in modern JavaScript technologies. Keep reading to learn more about me and my work ⬇
 
@@ -12,9 +12,9 @@ Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializi
 😄 Pronouns: she/her<br>
 
 ## Want to connect?
-👉🏻 let's connect on [Linkedin](https://www.linkedin.com/in/nina-engineer/)<br>
-💅🏻 wanna hear about my unpopular opinions? [Twitter](https://twitter.com/NinaBarbakadze)
-📧 or [Email](mailto:barbakadzeninaa@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) me
+👉🏻 Let's connect on [Linkedin](https://www.linkedin.com/in/nina-engineer/)<br>
+💅🏻 Wanna hear about my unpopular opinions? [Twitter](https://twitter.com/NinaBarbakadze)<br>
+📧 Or send me an [Email](mailto:barbakadzeninaa@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## A little stat never killed nobody 🎶
 
