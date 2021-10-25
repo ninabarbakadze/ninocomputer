@@ -1,6 +1,6 @@
 ### console.log(nina🤠);
 
-Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializing in modern JavaScript technologies. Keep scrolling to learn more about me and my work ⬇
+Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializing in modern JavaScript technologies. Keep reading to learn more about me and my work ⬇
 
 
 🔭 I’m currently working on [DnD Masters](https://github.com/ninabarbakadze/DnD-Masters) and [Tipster](https://github.com/ninabarbakadze/Tipster)<br>
