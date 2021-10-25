@@ -11,7 +11,7 @@ Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializi
 🎹 Played piano for 7 years, now I'm playing electronic music as a hobby<br>
 😄 Pronouns: she/her<br>
 
-## Want to connect?
+## Get in touch with me
 👉🏻 Let's connect on [Linkedin](https://www.linkedin.com/in/nina-engineer/)<br>
 💅🏻 Wanna hear about my unpopular opinions? [Twitter](https://twitter.com/NinaBarbakadze)<br>
 📧 Or send me an [Email](mailto:barbakadzeninaa@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
