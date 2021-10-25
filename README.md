@@ -7,7 +7,7 @@ Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializi
 🧠 Learning about Web3<br>
 👀 Looking to collaborate on anything fun!<br> 
 🇩🇪 Berlin based, from Tbilisi, Georgia 🇬🇪 <br>
-🗣 skilled in 4 spoken languages 🇬🇧🇩🇪🇬🇪🇷🇺<br>
+🗣 skilled in 4 spoken languages 🇬🇧 🇩🇪 🇬🇪 🇷🇺<br>
 🎹 Played piano for 7 years, now I'm playing electronic music as a hobby<br>
 😄 Pronouns: she/her<br>
 
