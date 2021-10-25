@@ -1,6 +1,6 @@
 ### Hi there, my name is Nina welcome to my GitHub! 🙋🏻‍♀️
 
-<iframe src="https://giphy.com/embed/yR4xZagT71AAM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/google-search-yR4xZagT71AAM">via GIPHY</a></p>
+
 
 
 🔭 I’m currently working on [DnD Masters](https://github.com/ninabarbakadze/DnD-Masters) and [Tipster](https://github.com/ninabarbakadze/Tipster)<br>
@@ -12,3 +12,7 @@
 😄 Pronouns: she/her<br>
 🎹 Played piano for 7 years, now I'm playing electronic music as a hobby<br>
 
+## A little stats never killed nobody 🎶
+
+[![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninabarbakadze)](https://github.com/ninabarbakadze/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninabarbakadze&layout=compact)](https://github.com/ninabarbakadze/github-readme-stats)
