@@ -12,7 +12,7 @@
 😄 Pronouns: she/her<br>
 🎹 Played piano for 7 years, now I'm playing electronic music as a hobby<br>
 
-## A little stats never killed nobody 🎶
+## A little stat never killed nobody 🎶
 
 [![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninabarbakadze)](https://github.com/ninabarbakadze/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninabarbakadze&layout=compact)](https://github.com/ninabarbakadze/github-readme-stats)
