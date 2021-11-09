@@ -2,7 +2,6 @@
 
 Hi there! I'm Nina 👩🏻‍💻, Berlin based Full-stack developer specializing in modern JavaScript technologies. Keep reading to learn more about me and my work ⬇
 
-
 🧠 Currently learning about Web3<br>
 👀 Looking to collaborate on anything fun!<br> 
 🇩🇪 Berlin based, from Tbilisi, Georgia 🇬🇪 <br>
