@@ -1,4 +1,4 @@
-solidity engineer with a full-stack JS background 
+smart contracts engineer with a full-stack JS background 
 
 ## Get in touch with me
 wanna hear about my unpopular opinions? [Twitter](https://twitter.com/NinaBarbakadze)<br>
